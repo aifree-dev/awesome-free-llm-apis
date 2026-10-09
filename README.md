@@ -426,6 +426,7 @@ Looking for something specific? These searches might help:
 - **Free Llama API** → Groq, Cerebras, OpenRouter, GitHub Models all offer free Llama 3.3 70B
 - **Free DeepSeek API** → OpenRouter, Kluster AI, LLM7.io, GitHub Models
 - **Which keyless endpoints are answering right now** → [stillworks](https://stillworks.supercapybara.com) — Directories list. We check. Endpoints probed on a schedule with a real chat completion, failures published next to the successes
+- **Trial credits, student plans and startup programs** (excluded from this list by design) → [Awesome Free AI Credits](https://github.com/aifree-dev/awesome-free-ai-credits) — hand-verified one-off credits, student and startup programs, with card requirement and end date per offer
 
 ---
 
